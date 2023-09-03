@@ -1,8 +1,6 @@
-# Function-of-R
+# Function-of-R-The Unifrom Distribution
 
-The Unifrom Distribution
-
-Description
+# Description
 These functions provide information about the uniform distribution on the interval from min to max. dunif gives the density, punif gives the distribution function qunif gives the quantile function and runif generates random deviates.
 
 # Usage
@@ -11,7 +9,7 @@ punif(q, min = 0, max = 1, lower.tail = TRUE, log.p = FALSE)
 qunif(p, min = 0, max = 1, lower.tail = TRUE, log.p = FALSE)
 runif(n, min = 0, max = 1)
 
-Arguments
+# Arguments
 
 x, q	
 vector of quantiles.
